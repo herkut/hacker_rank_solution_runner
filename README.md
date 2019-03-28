@@ -1,5 +1,5 @@
 # hackerrank_solution_runner
-Application running hacker rank solution with input and expected output files to show erroneous result
+A python script which aims to run hacker rank solution with input and expected output files to show erroneous result. The application containing the solution is required to be compiled manually if it was written in a compiled language.
 
 ## Usage
 hacker_rank_solution_runner.py "command to run your solution" input.txt expected_output.txt
