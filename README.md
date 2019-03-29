@@ -4,4 +4,4 @@ A python script which aims to run hacker rank solution with input and expected o
 ## Usage
 hacker_rank_solution_runner.py "command to run your solution" input.txt expected_output.txt
 
-e.g. hacker_rank_solution_runner.py "java Solution" input.txt expected_output.txt
+hacker_rank_solution_runner.py "java Solution" input.txt expected_output.txt
